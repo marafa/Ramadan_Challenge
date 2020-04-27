@@ -1,4 +1,4 @@
-# Ramadan_Challenge
+# Ramadan Challenge
 
 ## Introduction
 Ramadan is a holy month in Islam. It is the month all Muslims fast and attempt to get closer to Allah, one of the names of God in Arabic
